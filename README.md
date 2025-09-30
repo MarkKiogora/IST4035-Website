@@ -9,12 +9,6 @@ The site demonstrates modern HTML5 + CSS3 practices, accessibility standards, re
 ## Live Demo (GitHub Pages)
  [View the site here](https://markkiogora.github.io/IST4035-Website/) 
 
- - **GitHub Repository (Codebase):**  
-   [https://github.com/kiogzz/onelove](https://github.com/kiogzz/onelove)
-
-- **Live Website (GitHub Pages):**  
-   [https://kiogzz.github.io/onelove/](https://kiogzz.github.io/onelove/)
-
 - **Published Docker Image (Docker Hub):**  
    [https://hub.docker.com/r/kiogzz/onelove/tags](https://hub.docker.com/r/kiogzz/onelove/tags)
 
